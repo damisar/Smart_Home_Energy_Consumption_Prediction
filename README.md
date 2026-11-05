@@ -90,9 +90,9 @@ The final model comparison used aligned test observations to support a fair eval
 |---|---:|---:|---:|
 | Linear Regression | 26.63 | 59.83 | 0.5627 |
 | Regularized XGBoost | 26.20 | 60.54 | 0.5523 |
-| LSTM | 27.79 | 63.11 | 0.5135 |
 | Persistence Baseline | 26.52 | 66.23 | 0.4641 |
 | Regularized Random Forest | 41.00 | 71.28 | 0.3793 |
+| LSTM | 35.16 | 71.67 | 0.3725 |
 | Random Forest | 58.36 | 91.76 | -0.0285 |
 | XGBoost | 90.62 | 112.15 | -0.5365 |
 
