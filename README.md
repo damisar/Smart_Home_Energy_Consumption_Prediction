@@ -106,6 +106,24 @@ The final model comparison used aligned test observations to support a fair eval
 
 These results are specific to the dataset, forecasting horizon, and evaluation approach used in this project.
 
+## Data Visualizations and Model Results
+
+### Appliance Energy Consumption Distribution
+
+![Appliance Energy Consumption Distribution](figure/appliance_energy_distribution.png)
+
+### Forecasting Model RMSE Comparison
+
+![Forecasting Model RMSE Comparison](figure/final_model_rmse_comparison.png)
+
+### Actual vs. Predicted Energy Consumption
+
+![Actual vs. Predicted Energy Consumption](figure/actual_vs_predicted_linear_regression.png)
+
+### Linear Regression Residual Analysis
+
+![Linear Regression Residual Analysis](figure/linear_regression_residual_analysis.png)
+
 ## Model Interpretation and Diagnostics
 
 The project also examined:
